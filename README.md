@@ -1,4 +1,4 @@
-# RunComfy
+# runcomfy-com
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,101 +64,32 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-RunComfy provides a cloud platform for ComfyUI, offering fast GPU‑accelerated AI image generation and workflow automation via scalable APIs. Users can run, train, and deploy ComfyUI workflows without setup, leveraging on‑demand GPU resources, model libraries, and a serverless environment. The service targets creators, artists, and developers seeking zero‑ops AI tooling.
+RunComfy provides a cloud platform for running ComfyUI workflows, offering fast GPU-powered AI art generation without setup. Users can upload workflow.json files, auto‑setup dependencies, and access a scalable API that autoscales on demand, simplifying AI art creation.
 
-**Areas:** AI · Cloud · Image Generation · Workflow Automation · ComfyUI
+**Areas:** AI · ComfyUI · Cloud · Automation · Art
 
-## RunComfy on APIs.io
+## runcomfy-com on APIs.io
 
-Everything profiled for RunComfy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/runcomfy-com/](https://apis.io/providers/runcomfy-com/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [RunComfy API](https://apis.io/apis/runcomfy-com/runcomfy-api/) — RunComfy provides a cloud platform for ComfyUI with APIs for image generation, workflow automation, and model management. Documentation is at…
-
-### Published properties
-
-Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
-
-#### AsyncAPI (1)
-
-Event-driven and webhook contracts.
-
-- [Runcomfy Com Webhooks](https://apis.io/asyncapis/runcomfy-com/runcomfy-com-webhooks/)
-
-#### Security (2)
-
-Authentication, trust centre, and vulnerability disclosure.
-
-- [Runcomfy Com Authentication](https://apis.io/security/runcomfy-com/runcomfy-com-authentication/)
-- [Runcomfy Com Domain Security](https://apis.io/security/runcomfy-com/runcomfy-com-domain-security/)
-
-#### Plans and pricing (1)
-
-Published plans, tiers and prices.
-
-- [Runcomfy Com Plans Pricing](https://apis.io/plans/runcomfy-com/runcomfy-com-plans-pricing/)
+Everything profiled for runcomfy-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/runcomfy-com/](https://apis.io/providers/runcomfy-com/)** — or go straight to one of the APIs or properties below.
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://runcomfy.com/)
-- [Documentation](https://docs.runcomfy.com/)
-- [Getting started](https://docs.runcomfy.com/serverless/quickstart.md)
-- [API reference](https://www.runcomfy.com/comfyui-api)
+- [Documentation](https://www.runcomfy.com/docs)
 - [Pricing](https://www.runcomfy.com/pricing)
-- [Terms of service](https://www.runcomfy.com/legal/tos)
-- [Privacy policy](https://www.runcomfy.com/legal/privacy)
+- [Sign up](https://www.runcomfy.com/auth/sign-in)
 
 ## API Evangelist rating
 
-**Kin Score 38.7** — thin · rubric 0.25.0 · scored 2026-10-31
-
-| Facet | Score |
-|---|---|
-| Discoverability | 53.6 |
-| Contract quality | 39.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 7.9 |
-| Developer ergonomics | 61.9 |
-| Access clarity | 50.5 |
-
-**Agent readiness 44.4** — agent-ready (gated down from agent-native)
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | yes |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | served (partial credit) |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | unknown |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | conformant |
-| Dry Run Mode | — |
-| Delegated Identity | served (partial credit) |
-| Protected Resource Metadata | verified |
-| Dynamic Client Registration | yes |
-| Agentic Commerce | — |
-| Pagination Ratio | na |
-| Operation Distinctiveness | na |
-
-**Regulatory alignment 18.2** — AI & Biometrics
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/runcomfy-com/](https://apis.io/providers/runcomfy-com/).
+Not yet rated. See [apis.io/providers/runcomfy-com/](https://apis.io/providers/runcomfy-com/).
 
 ## How this profile is made
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for RunComfy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for runcomfy-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
